@@ -1,0 +1,1 @@
+# intellij-aem-live-templates
